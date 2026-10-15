@@ -6,7 +6,7 @@ import { personalInfo } from '../data/personal';
 
 // Put your photo in the `public` folder and name it profile.jpg
 // (or change the path below, e.g. '/my-photo.png')
-const PROFILE_IMAGE = 'public/profile.jpeg';
+const PROFILE_IMAGE = '/profile.jpeg';
 
 const highlights = [
   { icon: Code2, label: 'Tech Stack', value: 'React, Node.js & PostgreSQL' },
